@@ -3,4 +3,4 @@ It always bothered me that 'indexfont' in GZDoom doesn't have a full set of char
 
 Below is a preview image of the full font (characters ", ', { and } are unavailable). To use this font in engine, use "IndexFont", as this mod overrides the original font with this extended version.
 
-![INDEXFONT Preview](https://github.com/FDAapproved/Full-Index-Font/assets/32183732/9bfaf513-a8d1-4806-a744-a37b123d3ba4)
+![INDEXFONT Preview 2](https://github.com/FDAapproved/Full-Index-Font/assets/32183732/27773f87-6240-46cf-9c72-75cc95e24292)
