@@ -86,8 +86,8 @@ INDEXFONT
 	- STYSLTCO
 	| STYSLTCP
 	# STYSLTCQ
-	//" STYSLTCR // why are these not accounted for?
-	//' STYSLTCS
+	// \" STYSLTCR
+	// \' STYSLTCS
 	? STYSLTCT
 	@ STYSLTCU
 	$ STYSLTCV
