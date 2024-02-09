@@ -1,5 +1,6 @@
 INDEXFONT
 {
+    SPACEWIDTH 4
 	// Original definitions.
 	0 STYSNUM0
 	1 STYSNUM1
